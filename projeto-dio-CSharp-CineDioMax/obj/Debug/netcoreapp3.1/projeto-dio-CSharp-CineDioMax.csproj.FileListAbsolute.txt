@@ -1,0 +1,14 @@
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.csproj.AssemblyReference.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.AssemblyInfoInputs.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.AssemblyInfo.cs
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.csproj.CoreCompileInputs.cache
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.exe
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.deps.json
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.runtimeconfig.json
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.runtimeconfig.dev.json
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.dll
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\bin\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.pdb
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.dll
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.pdb
+C:\workspace\dio-CSharp\projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax\obj\Debug\netcoreapp3.1\projeto-dio-CSharp-CineDioMax.genruntimeconfig.cache

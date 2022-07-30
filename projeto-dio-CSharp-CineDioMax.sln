@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeto-dio-CSharp-CineDioMax", "projeto-dio-CSharp-CineDioMax\projeto-dio-CSharp-CineDioMax.csproj", "{402FDA5B-91A6-4067-8BAA-A071BD4ACBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402FDA5B-91A6-4067-8BAA-A071BD4ACBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402FDA5B-91A6-4067-8BAA-A071BD4ACBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402FDA5B-91A6-4067-8BAA-A071BD4ACBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402FDA5B-91A6-4067-8BAA-A071BD4ACBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3AE7A0-BCA6-436F-AE09-7BAA53279685}
+	EndGlobalSection
+EndGlobal
